@@ -1,0 +1,6 @@
+id=PRUF
+name=PRUF
+version=1.0
+versionCode=1
+author=xqtOr
+description=Permanent Removal Unnecessary Files it's a module for automatically cleans files and folders listed in /sdcard/Android/blacklist.conf.
